@@ -1,8 +1,8 @@
 package com.arrays_string;
 
-public class CheckPermutation_Option1 {
+public class URLify {
 
     public static void main(String[] args) {
-
+        
     }
 }
